@@ -14,3 +14,16 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+/log
+/public/tour/files
+/public/system
+/public/attachments
+/config/database.yml
+/config/touroperator.yml
+/Gemfile.lock
+/db/schema.rb
+/public/system
+.idea/
+public/partner/widget.js
+public/partner/widget-1251.js
+public/assets
